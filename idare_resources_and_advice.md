@@ -3,6 +3,12 @@
 ## Anti-racism resources
 
 - [Anti Racism resources](https://docs.google.com/document/d/1Fu6YmlUCW91XiDVBoNdpZyRl-J_dqoGm2wluD3iBhbc/edit)
+- [Equity and Anti-Racism Educators by Edutopia](https://www.edutopia.org/article/guide-equity-and-antiracism-educators#:~:text=Websites%20like%20Teaching%20Tolerance%2C%20the%20NEA%E2%80%99s%20EdJustice%2C%20and,well%20as%20lessons%20for%20you%20as%20a%20teacher.)
+- [Anti-Racist Teaching by PBS](https://www.pbs.org/education/blog/tools-for-anti-racist-teaching)
+- [Anti Racist Practices by UMich](https://sites.lsa.umich.edu/inclusive-teaching/anti-racist-practices/)
+- [Anti Racist Pedagogy by Columbia](https://ctl.columbia.edu/resources-and-technology/resources/anti-racist-pedagogy/)
+- [Effective anti racist teaching by Brown](https://www.brown.edu/sheridan/teaching-learning-resources/inclusive-teaching/effective-teaching-anti-racist-teaching)
+
 
 ## Inclusivity guides from universities
 
@@ -12,5 +18,6 @@
 - [Inclusive Teaching Stategies by Washington Univ in St Louis](https://ctl.wustl.edu/resources/strategies-for-inclusive-teaching-and-learning/)
 
 ### Fostering an inclusive classroom environment
+
 - [How to a create an inclusive classroom environment](https://www.cambridge.org/elt/blog/2017/11/15/create-inclusive-classroom-environment/)
 - [5 strategies for creating an inclusive classroom environment](https://everfi.com/blog/k-12/inclusive-classroom-strategies/#:~:text=There%20are%20many%20innovative%2C%20inclusive%20classroom%20strategies%20to,another%20resource%20to%20add%20to%20your%20toolkit%2C%20Compassion.)
