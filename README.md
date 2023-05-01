@@ -63,6 +63,7 @@
 - Link it out: If you have additional information for the particularly curious student, feel free to share it, but don’t make it central. Add links or a collapsible menu where students can find more information, but don’t use time in a lecture to cover it.
 
 ## Practical ideas for teaching students to encourage curiosity
+
 - Pause and think: Sometimes in an effort to complete a project quickly we can move too quickly and miss a critical clue in the data. Pauses are effective tools for thinking effectively about a project and what you are seeing. Encourage students that they do not have to answer questions right away. They can walk away, think about it for minutes or days and come back to it.
 - Show real examples: Real data have weirdness. Your curriculum should include an example of real data weirdness and how someone found that weirdness. What functions were used? What aspects of the data were the first red flags that the person who did the data analysis followed? Tell the story about how we found out this weird thing about this real data.
 - Give them an investigative tool belt: Give your students a set of strategies they can use to investigate weird- ness. What functions or tests can they use to interrogate a piece of data or weirdness in a package? Where can they go to find more information? Demonstrate Googling, StackOverflow, and package documentation as investigative tools.
@@ -70,6 +71,7 @@
 - Leave in the side journeys: Often, complete analyses involve several side explorations and dead ends. Although we often want to show a polished data science story, sometimes it can be beneficial to briefly demonstrate your development process and the side journeys it took to get there.
 
 ## Practical ideas for imparting good communication skills
+
 – Practice how to ask for help: Have students practice writing "help" posts and discuss the standard outline of what a call for help should have [63]. StackOverflow and other online communities can be very helpful, but often this starts with a well crafted post.
 – Be available: Always reiterate your availability (and truly be available too). When students do come to you with questions, try to be enthusiastic and supportive of them.
 – Automate questions: Set up systems that regularly ask your students what questions or problems they have. You can set up reminders for yourself or them.
@@ -79,6 +81,7 @@
 – Rubber ducking: Rubber ducking refers to the debugging code by explaining it aloud, even if no one is listening to your explanation. Encourage students to walk through their code on their own and translate it into "normal speak". This not only helps them troubleshoot, but also builds explanatory skills and deeper understanding of their code.
 
 ## Practical ideas for iteratively updating
+
 – Version control your curriculum: Not only should our data analyses be well tracked, documented and version controlled, but our curriculum should be too. Where possible, curriculum should be open source and on GitHub [64]. Also consider using permissive licenses such as a Creative Commons licenses such as CC-BY which requires attribution but is otherwise open to repurpose and reuse.
 – Minimize maintenance pains: Create your curriculum in a way that minimizes the pain of maintenance. We use Open-source Tools for Training Resources (OTTR) to create our curriculum [64]. We also utilize the exercise package to automatically generate our exercise notebooks without solutions [66]. See the Supplementary info for more resources for how to automate your curriculum maintenance.
 – Take notes: In each iteration of your class, take notes and debrief with your education team about strengths of your course and opportunities for improvement. You can easily track ideas and notes as issues in your GitHub repository.
