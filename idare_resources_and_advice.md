@@ -21,3 +21,9 @@
 
 - [How to a create an inclusive classroom environment](https://www.cambridge.org/elt/blog/2017/11/15/create-inclusive-classroom-environment/)
 - [5 strategies for creating an inclusive classroom environment](https://everfi.com/blog/k-12/inclusive-classroom-strategies/#:~:text=There%20are%20many%20innovative%2C%20inclusive%20classroom%20strategies%20to,another%20resource%20to%20add%20to%20your%20toolkit%2C%20Compassion.)
+
+
+### Accessibility tools 
+
+- [Color Oracle](https://colororacle.org/) to make sure curriculum is color blindness friendly. 
+= [A Guide to Making Documents Accessible to People Who Are Blind or Visually Impaired by Jennifer Sutton](https://www.sabeusa.org/wp-content/uploads/2014/02/A-Guide-to-Making-Documents-Accessible-to-People-Who-are-Blind-or-Visually-Impaired.pdf)
