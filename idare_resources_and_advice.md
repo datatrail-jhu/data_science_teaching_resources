@@ -27,3 +27,11 @@
 
 - [Color Oracle](https://colororacle.org/) to make sure curriculum is color blindness friendly. 
 = [A Guide to Making Documents Accessible to People Who Are Blind or Visually Impaired by Jennifer Sutton](https://www.sabeusa.org/wp-content/uploads/2014/02/A-Guide-to-Making-Documents-Accessible-to-People-Who-are-Blind-or-Visually-Impaired.pdf)
+
+### Anti-racism in the workplace at large 
+
+- [Antiracism, Allyship, and Authenticity: Building Internal Capacity for Institutional Change - Webinar](https://www.youtube.com/watch?v=cBR23_y_HfU&t=705s)
+  - [Associated Resources](https://positiveorgs.bus.umich.edu/wp-content/uploads/antiracism-allyship-authenticity-resources_final.pdf)
+- [Promoting DEI in informatics](https://jhudatascience.org/Informatics_Research_Leadership/promoting-diversity-equity-and-inclusion.html)
+- [A Guide for non-Black Mentors of Black Students and
+Underrepresented Students of Color in STEM](https://veronica-padilla.weebly.com/uploads/1/2/0/1/120174067/guide_to_mentorship_of_bipoc_v._6.pdf)
