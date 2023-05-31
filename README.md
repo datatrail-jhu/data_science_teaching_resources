@@ -72,7 +72,7 @@
 
 ## Practical ideas for imparting good communication skills
 
-– Practice how to ask for help: Have students practice writing "help" posts and discuss the standard outline of what a call for help should have [63]. StackOverflow and other online communities can be very helpful, but often this starts with a well crafted post.  
+- Practice how to ask for help: Have students practice writing "help" posts and discuss the standard outline of what a call for help should have [63]. StackOverflow and other online communities can be very helpful, but often this starts with a well crafted post.  
 – Be available: Always reiterate your availability (and truly be available too). When students do come to you with questions, try to be enthusiastic and supportive of them.  
 – Automate questions: Set up systems that regularly ask your students what questions or problems they have. You can set up reminders for yourself or them.  
 – Structured one-on-one sessions Set up structured one-on-one mentoring meetings. By structured, we mean use a document that your student fills out that asks them to answer: what are they working on? what is going well? what is not going so well? and so on.  
